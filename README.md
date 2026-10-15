@@ -1,10 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Haniel Henry 👋</h1>
-  
-  <!-- Safari-Compatible CSS Animated Slider Banner -->
-  <p align="center">
-    <img src="./typing-banner.svg" alt="Animated Role Slider" width="700" />
-  </p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:38BDF8&height=200&section=header&text=Hi%20there,%20I'm%20Haniel%20Henry%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20AI%20Full%20Stack%20Developer%20%40%20White%20Matrix%20%E2%80%A2%20AI%20%26%20Data%20Science%20%E2%80%A2%20Embedded%20Systems&descAlignY=60&descSize=16" alt="Header Banner" />
 
   <p>
     <a href="https://linkedin.com/in/hanielhenry" target="_blank">
