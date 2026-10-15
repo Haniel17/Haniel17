@@ -1,5 +1,24 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:38BDF8&height=200&section=header&text=Hi%20there,%20I'm%20Haniel%20Henry%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20AI%20Full%20Stack%20Developer%20%40%20White%20Matrix%20%E2%80%A2%20AI%20%26%20Data%20Science%20%E2%80%A2%20Embedded%20Systems&descAlignY=60&descSize=16" alt="Header Banner" />
+  <h1>Hi there, I'm Haniel Henry 👋</h1>
+  
+  <!-- Dynamic Typing SVG Banner -->
+  <a href="https://git.io/typing-banner.svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Lead+AI+Full+Stack+Developer+%40+White+Matrix;AI+%26+Data+Science+Engineer;Architecting+LLM+%26+Full-Stack+Systems;ESP32+%26+Embedded+Hardware+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    </a>
+    <a href="mailto:hanielhenry@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    </a>
+    <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
+
 
   <p>
     <a href="https://linkedin.com/in/hanielhenry" target="_blank">
