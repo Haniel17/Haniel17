@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm Haniel Henry 👋</h1>
   
-  <!-- Dynamic Typing SVG Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Lead+AI+Full+Stack+Developer+%40+White+Matrix;AI+%26+Data+Science+Engineer;Architecting+LLM+%26+Full-Stack+Systems;ESP32+%26+Embedded+Hardware+Enthusiast" alt="Typing SVG" />
-  </a>
+  <!-- Safari-Compatible CSS Animated Slider Banner -->
+  <p align="center">
+    <img src="./typing-banner.svg" alt="Animated Role Slider" width="700" />
+  </p>
 
   <p>
     <a href="https://linkedin.com/in/hanielhenry" target="_blank">
@@ -63,7 +63,6 @@
 
 </div>
 
-
 ---
 
 ### 📌 Featured Highlights
@@ -82,4 +81,3 @@
   <br/>
   <img height="165em" src="https://streak-stats.demolab.com?user=Haniel17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
