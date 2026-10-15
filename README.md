@@ -79,9 +79,9 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Haniel17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haniel17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/>
-  <img height="165em" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=Haniel17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
