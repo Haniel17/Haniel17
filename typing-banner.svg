@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 50" width="700" height="50">
+  <style>
+    .container {
+      font-family: 'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace;
+      font-size: 20px;
+      font-weight: 600;
+      fill: #38BDF8;
+    }
+    .line { opacity: 0; }
+    .line1 { animation: slideFade 16s infinite 0s; }
+    .line2 { animation: slideFade 16s infinite 4s; }
+    .line3 { animation: slideFade 16s infinite 8s; }
+    .line4 { animation: slideFade 16s infinite 12s; }
+    @keyframes slideFade {
+      0% { opacity: 0; transform: translateY(12px); }
+      4%, 21% { opacity: 1; transform: translateY(0px); }
+      25%, 100% { opacity: 0; transform: translateY(-12px); }
+    }
+  </style>
+  <g class="container" text-anchor="middle">
+    <text x="350" y="32" class="line line1">Lead AI Full Stack Developer @ White Matrix</text>
+    <text x="350" y="32" class="line line2">AI &amp; Data Science Engineer • IoT &amp; Embedded Systems</text>
+    <text x="350" y="32" class="line line3">Architecting Scalable LLM &amp; Full-Stack Applications</text>
+    <text x="350" y="32" class="line line4">ESP32 &amp; Hardware-Software Integration Enthusiast</text>
+  </g>
+</svg>
